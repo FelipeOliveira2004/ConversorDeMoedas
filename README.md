@@ -8,8 +8,8 @@
 ## 🛠️ Tecnologias Utilizadas
 - **Java 24**
 - **IntelliJ IDEA**
-- **ExchangeRate-API** → [https://www.exchangerate-api.com](https://www.exchangerate-api.com)
 - **Gson**
+- **ExchangeRate-API** → [https://www.exchangerate-api.com](https://www.exchangerate-api.com)
 
 ## 📖 Exemplo de Uso
 
